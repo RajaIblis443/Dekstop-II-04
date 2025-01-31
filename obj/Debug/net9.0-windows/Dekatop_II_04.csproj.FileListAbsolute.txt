@@ -1,0 +1,138 @@
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.Forms.MainForm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Dekatop_II_04.exe
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Dekatop_II_04.deps.json
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Dekatop_II_04.runtimeconfig.json
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Dekatop_II_04.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Dekatop_II_04.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Dapper.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Guna.UI2.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\System.Management.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_.4DA74E94.Up2Date
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\refint\Dekatop_II_04.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\ref\Dekatop_II_04.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.Forms.Participants.resources
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.Forms.AddForm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.Forms.UpdateForm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.Forms.MarathonSimulation.resources
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\bin\Debug\net9.0-windows\Guna.Charts.WinForms.dll
+C:\Users\Lenovo\Documents\Visual Studio 2022\Project\BelajarLibary\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.Forms.RankParticipant.resources
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Dekatop_II_04.exe
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Dekatop_II_04.deps.json
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Dekatop_II_04.runtimeconfig.json
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Dekatop_II_04.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Dekatop_II_04.pdb
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Azure.Core.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Azure.Identity.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Dapper.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Guna.Charts.WinForms.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Guna.UI2.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\System.ClientModel.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\System.Management.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\System.Memory.Data.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\acer\Desktop\Dekatop_II_04\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.Forms.AddForm.resources
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.Forms.MainForm.resources
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.Forms.MarathonSimulation.resources
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.Forms.Participants.resources
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.Forms.RankParticipant.resources
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.Forms.UpdateForm.resources
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.AssemblyInfo.cs
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_.4DA74E94.Up2Date
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.dll
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\refint\Dekatop_II_04.dll
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.pdb
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\Dekatop_II_04.genruntimeconfig.cache
+C:\Users\acer\Desktop\Dekatop_II_04\obj\Debug\net9.0-windows\ref\Dekatop_II_04.dll
